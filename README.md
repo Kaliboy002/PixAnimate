@@ -8,10 +8,6 @@ A Telegram bot that transforms images into cartoon or animated versions using Py
 - Uses advanced image processing techniques like bilateral filtering, edge detection, and noise reduction.
 - Fast and easy-to-use interface through Telegram.
 
-## Preview
-
-![cartoon-preview](https://example.com/path/to/image) 
-
 ## Installation
 
 To run this bot locally, follow the steps below:
@@ -23,6 +19,6 @@ To run this bot locally, follow the steps below:
 - **python-telegram-bot**: Telegram API wrapper to communicate with Telegram servers.
 
 ## Usage
-Start the bot in Telegram.
+Start the bot in Telegram. Search PixAnimateBot in Telegram search bar.
 Send any image to the bot.
 The bot will reply with a cartoonized/animated version of the image.
