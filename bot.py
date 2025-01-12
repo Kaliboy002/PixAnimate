@@ -12,7 +12,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Your bot token
-TOKEN = '7628087790:AAFh_4CHHPVs2HKuOip9PROk7x3dfwG-A9w'
+TOKEN = '7628087790:AAHHX-BS4qEUwkFm8nlF6aD9XAkxOo1o8tM'
 
 def cartoonize_image(image):
     # Convert PIL image to a NumPy array
